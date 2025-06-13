@@ -45,7 +45,7 @@ Digite os números para montar a árvore (ex: 4,2,6,5,50,37,12,32,11,14,21): 4,2
 
 ```
 
-**Saída Esperada:**
+**Retorno Esperada:**
 ```
  Informações da árvore:
 
@@ -76,7 +76,7 @@ Galhos a direita: 37, 32, 21, 14, 12, 11
 ```
 
 **Bonus**
-Adicionei também a saida do objeto em formato json;
+Adicionei também o retorno do objeto em formato json;
 
 ```
 Objeto em formato JSON:
