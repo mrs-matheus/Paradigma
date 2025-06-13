@@ -75,7 +75,7 @@ Galhos a direita: 37, 32, 21, 14, 12, 11
                                                                11
 ```
 
-**Bonus
+**Bonus**
 Adicionei também a saida do objeto em formato json;
 
 ```
